@@ -1,14 +1,13 @@
-# Ignore build-related directories
-/build/
+.DS_Store
+# VS Code editor configuration
+.vscode/
 
-# Ignore local vault and data
-/vault_data/
+# Python virtual environment
+myvenv/
 
-# Ignore VS Code configuration files
-/.vscode/
+# --- Other common entries ---
+# Executable build files
+*.exe
 
-# Ignore extracted and temporary files
-extracted_*.txt
-extracted_*.pdf
-temp_compressed.bin
-temp_decrypted.bin
+# Object files
+*.o
