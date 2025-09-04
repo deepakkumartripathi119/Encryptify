@@ -1,0 +1,14 @@
+# Ignore build-related directories
+/build/
+
+# Ignore local vault and data
+/vault_data/
+
+# Ignore VS Code configuration files
+/.vscode/
+
+# Ignore extracted and temporary files
+extracted_*.txt
+extracted_*.pdf
+temp_compressed.bin
+temp_decrypted.bin

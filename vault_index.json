@@ -1,0 +1,16 @@
+{
+    "check.txt": {
+        "compressed": true,
+        "uuid": "4f5213ba84780ff7091a8a4c861d9003"
+    },
+    "example.txt": "c93501257f1180fe6f3cde9b869b1aa3",
+    "sample.txt": {
+        "compressed": true,
+        "uuid": "184fa87ca87063917dd1b5c028abad6d"
+    },
+    "sample2.txt": {
+        "compressed": false,
+        "uuid": "ba2d1368f4af9644bc867fade54c04b8"
+    },
+    "test.pdf": "c166cdc3987016ee2c225d46918d238d"
+}
